@@ -1,0 +1,18 @@
+platforms:
+  darwin:
+    architecture:
+      - 'x64'
+  linux:
+    architecture:
+      - 'x64'
+projects:
+  'littlebrudder':
+    path: './'
+    steps:
+      npm:
+        path: './'
+        command: 'npm'
+        arguments:
+          - 'install'
+    pack:
+      pattern: './node_modules/**,./bin/**,./scripts/**,./*.json,boot.yaml'

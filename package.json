@@ -1,0 +1,16 @@
+{
+  "name": "littlebrudder",
+  "version": "0.1.0",
+  "description": "He's gonna make it ...",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/arobson/littlebrudder.git"
+  },
+  "author": "Alex Robson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arobson/littlebrudder/issues"
+  },
+  "homepage": "https://github.com/arobson/littlebrudder#readme"
+}
