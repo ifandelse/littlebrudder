@@ -7,6 +7,9 @@
     "type": "git",
     "url": "git://github.com/arobson/littlebrudder.git"
   },
+  "dependencies": {
+    "autohost": "0.5.*"
+  },
   "author": "Alex Robson",
   "license": "MIT",
   "bugs": {
