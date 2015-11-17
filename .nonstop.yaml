@@ -15,4 +15,4 @@ projects:
         arguments:
           - 'install'
     pack:
-      pattern: './node_modules/**,./bin/**,./scripts/**,./*.json,boot.yaml'
+      pattern: './node_modules/**,./src/**,./public/**,./*.json,boot.yaml'
